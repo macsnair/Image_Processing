@@ -1,7 +1,7 @@
 % READ IMAGE OF ANY GIVEN EXTENSION (say, 'ext')
 
 % Created by: Manu Nair
-% Date: 05/09/2017
+% Date: 02/04/2017
 
 
 fid = fopen(fullfile(image_path,'image_name.ext')); %read the image data file
